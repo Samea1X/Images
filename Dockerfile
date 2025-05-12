@@ -1,0 +1,1 @@
+FROM easzlab.io.local:5000/easzlab/nfs-subdir-external-provisioner:v4.0.2
